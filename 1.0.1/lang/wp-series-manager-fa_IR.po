@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Series Manager v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-08 05:25:36+0000\n"
+"Last-Translator: admin <omidrezav@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: IRAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp-series-manager.php:38
+#: wp-series-manager.php:48
+#@ wp-series-manager
+msgid "Series"
+msgstr "سری ها"
+
+#: wp-series-manager.php:39
+#@ wp-series-manager
+msgid "Serie"
+msgstr "سری"
+
+#: wp-series-manager.php:40
+#: wp-series-manager.php:42
+#@ wp-series-manager
+msgid "Add new serie"
+msgstr "اضافه کردن سری جدید"
+
+#: wp-series-manager.php:41
+#@ wp-series-manager
+msgid "All series"
+msgstr "همه ی سری ها"
+
+#: wp-series-manager.php:43
+#@ wp-series-manager
+msgid "Edit serie"
+msgstr "ویرایش سری"
+
+#: wp-series-manager.php:44
+#@ wp-series-manager
+msgid "View Serie"
+msgstr "نمایش سری"
+
+#: wp-series-manager.php:45
+#@ wp-series-manager
+msgid "Search series"
+msgstr "جستجو در سری ها"
+
+#: wp-series-manager.php:46
+#@ wp-series-manager
+msgid "No series found"
+msgstr "هیچ سری یافت نشد."
+
+#: wp-series-manager.php:47
+#@ wp-series-manager
+msgid "No series found in trash"
+msgstr "هیچ سری در زباله دان یافت ند."
+
+#: wp-series-manager.php:68
+#@ wp-series-manager
+msgid "Series Manager"
+msgstr "مدیریت سری ها"
+
+#: wp-series-manager.php:80
+#@ wp-series-manager
+msgid "This Post Belongs to Serie with ID: "
+msgstr "این پست سری با ID مقابل تعلق دارد: "
+
+#: wp-series-manager.php:127
+#@ wp-series-manager
+msgid "Belonging Posts"
+msgstr "نوشته های مربوطه"
+
+#: wp-series-manager.php:146
+#@ default
+msgid "Edit This"
+msgstr ""
+
+#: wp-series-manager.php:164
+#@ wp-series-manager
+msgid "Belongs to"
+msgstr "سری"
+
+#: wp-series-manager.php:181
+#@ wp-series-manager
+msgid "Nothing"
+msgstr "-"
+
+#: wp-series-manager.php:238
+#@ wp-series-manager
+msgid "This post belongs to "
+msgstr "قسمتی از سری "
+
+#: wp-series-manager.php:209
+#@ wp-series-manager
+msgid "These are posts belonging to this serie:"
+msgstr "نوشته های مربوط به این سری: "
+
+#: wp-series-manager.php:247
+#@ wp-series-manager
+msgid "These are posts belonging to the same serie:"
+msgstr "سایر مطالب این سری:"
+
